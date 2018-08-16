@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">bmi calculator</string>
+    <string name="boy">Boy</string>
+    <string name="boyunuzu_giriniz">boyunuzu giriniz</string>
+    <string name="kilo">Kilo</string>
+    <string name="kilonuz">kilonuz</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="cinsiyet">Cinsiyet</string>
+    <string name="hesapla">Hesapla</string>
+    <string name="ideal_kilo">ideal kilo</string>
+    <string name="durum">Durum</string>
+    <string name="durumunuz">durumunuz</string>
+    <string name="ideal_kilonuz">ideal kilonuz</string>
+</resources>
