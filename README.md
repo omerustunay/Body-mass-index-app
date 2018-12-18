@@ -4,4 +4,4 @@ Body mass index application
 
 BMI Vücut kitle indeksi hesaplanması.
 
-matematiksel formulleri kullanılarak geliştirilen uygulama.
+matematiksel formülleri kullanılarak geliştirilen uygulama.
